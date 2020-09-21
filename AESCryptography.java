@@ -1,4 +1,3 @@
-package com.learning.goodquestions;
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 import java.util.Base64;

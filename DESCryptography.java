@@ -1,5 +1,3 @@
-package com.learning.goodquestions;
-
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
